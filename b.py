@@ -1,0 +1,5 @@
+print("hi bro\nhi ravi\nhi mummy\nhi mom dad")
+print('hello'+" "+'manu')
+print("hi br\nhoe are you bro\njones is a good nort\n")
+print('hi '+'manu '+'is '+'a '+'good '+'boy ')
+print("hey "+input('What is your name? ')+','+'how are you')
